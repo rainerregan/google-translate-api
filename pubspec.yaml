@@ -1,15 +1,13 @@
 name: google_translate_api
 description: Google Translate API for Dart
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/rainerregan/google-translate-api
 
 environment:
   sdk: ^3.3.2
 
-# Add regular dependencies here.
 dependencies:
   http: ^1.2.2
-  # path: ^1.8.0
 
 dev_dependencies:
   lints: ^3.0.0
